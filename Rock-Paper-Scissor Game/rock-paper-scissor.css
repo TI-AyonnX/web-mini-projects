@@ -1,0 +1,42 @@
+ body {
+   background-color: #191919;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .rock-paper-scissor {
+   font-size: 30px;
+   font-weight: bold;
+ }
+
+ .edit-emoji {
+   height: 60px;
+ }
+
+ .edit-rps-button {
+   background-color: transparent;
+   border: 3px solid white;
+   padding: 30px;
+   border-radius: 120px;
+   margin-right: 10px;
+   margin-bottom: 30px;
+   cursor: pointer;
+ }
+
+ .edit-reset-score-button,
+ .edit-auto-play-button,
+ .edit-yes-no-button {
+   padding: 8px 16px;
+   font-size: 15px;
+   font-weight: bold;
+   cursor: pointer;
+ }
+
+ .edit-js-result {
+   font-size: 24px;
+   font-weight: bold;
+ }
+
+ .score {
+   margin-top: 40px;
+ }
